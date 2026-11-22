@@ -3,8 +3,6 @@
 ---
 
 
-# Cực Lạc Quốc
-
 ### 📝 1. Định nghĩa hiện đại
 Trong kinh điển Phật giáo Đại thừa, *Tây Phương Cực Lạc* (tiếng Phạn: *Sukhavati*) chỉ cõi nước thanh tịnh, an vui tột cùng (*Extreme Happiness*) của Đức Phật A Di Đà ở phương Tây.
 
