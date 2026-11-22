@@ -3,7 +3,6 @@
 ---
 
 
-# Tây Vực (Cương Vực)
 
 ### 📝 1. Định nghĩa hiện đại
 * **Tây Vực**: Thuật ngữ sử học thường dùng để chỉ vùng đất phía Tây Trung Nguyên (từ thời nhà Chu – Hán trở về sau, tức vùng Tân Cương và Trung Á).
